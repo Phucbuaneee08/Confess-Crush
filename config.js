@@ -1,10 +1,7 @@
 const CONFIG = {
     titleWeb: "20/10 GỬI EM ",
     introTitle: 'BÉ CÁ IU CHƯN CỦA ANH CHÚNNN ',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introDesc: `BÉ ĐANG ĐI ĐÂUU ĐÂY, BÉ ĐI NHẦM ĐƯỜNG VÀO TIM ANH RỒI NÀYYY CÓ BIẾT CHƯAAAA`,
     btnIntro: 'BẤM ĐIII',
     title: 'Bé cá xinh đẹp của anh có yêu anh chún không ',
     desc: 'Trả lời anh điiiiii nàoooooo',
